@@ -5,7 +5,7 @@
 
 - 🌱 Şu anda öğreniyorum **Javascript-Node.js**
 
-- 💬 İlgi Alanlarım **Backend ,JS**
+- 💬 İlgi Alanlarım **Backend ,JS ,C# ,ASP.Net**
 
 - 📫 Bana buradan ulaşabilirsiniz **alpernerdm@gmail.com**
 
