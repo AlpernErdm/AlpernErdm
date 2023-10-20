@@ -1,13 +1,13 @@
-<h1 align="center">Merhaba👋, ben Alperen Erdem</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi👋, I'm Alperen Erdem</h1>
+<h3 align="center">Jr. Back-end Developer</h3>
 
-- 🔭 Şu anda çalışıyorum **Sipariş Takip Sistemi**
+- 🔭  I’m currently working on **Sipariş Takip Sistemi**
 
-- 🌱 Şu anda öğreniyorum **Javascript-Node.js**
+- 🌱  I’m currently learning on **Javascript-Node.js**
 
-- 💬 İlgi Alanlarım **Backend ,JS ,C# ,ASP.Net**
+- 💬 My interests **Backend ,JS ,C# ,ASP.Net**
 
-- 📫 Bana buradan ulaşabilirsiniz **alpernerdm@gmail.com**
+- 📫 How to reach me **alpernerdm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
