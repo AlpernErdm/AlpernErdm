@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I'm Alperen Erdem</h1>
 <h3 align="center">Jr. Back-end Developer</h3>
 
-- 🔭  I’m currently working on **Sipariş Takip Sistemi**
+- 🔭  I’m currently working on **Rent A Car Project**
 
-- 🌱  I’m currently learning on **Javascript-Node.js**
+- 🌱  I’m currently learning on **C#-.Net Core**
 
-- 💬 My interests **Backend ,JS ,C# ,ASP.Net**
+- 💬 My interests **Backend ,JS ,C# ,ASP.Net , .Net Core **
 
 - 📫 How to reach me **alpernerdm@gmail.com**
 
