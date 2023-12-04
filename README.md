@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rent A Car Project**
 
-- 🌱 I’m currently learning **C#-.Net Core**
+- 🌱 I’m currently learning **Java-Spring Boot**
 
 - 📫 How to reach me **alpernerdm@gmail.com**
 
