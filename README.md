@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **BKYS for AHI EVRAN UNIVERSITY**
 
-- 🌱 I’m currently learning **Java-Spring Boot**
+- 🌱 I’m currently coding **C# .Net Framework and Java Spring Framewwork**
 
 - 📫 How to reach me **alpernerdm@gmail.com**  
 
