@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Cerebrum Tech  
   
 
-- 🌱 I’m currently learning JavaScript / Node.js  
+- 🌱 I’m currently learning .Net Core and React&Angular
   
 
 - ❓ Ask me about anything   
